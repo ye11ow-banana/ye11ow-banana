@@ -1,4 +1,4 @@
-### Hi there, I'm Mykhailo - aka [ye11ow_banana] 👋
+### Hi there, I'm Mykhailo - aka ye11ow-banana 👋
 
 ## I'm a student and developer:
 - 🌱 I’m currently learning Vue.js
