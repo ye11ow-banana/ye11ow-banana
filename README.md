@@ -1,14 +1,15 @@
 ### Hi there, I'm Mykhailo - aka ye11ow-banana 👋
 
 ## I'm a student and developer:
-- 🌱 I’m currently learning Vue.js
-- 🥅 2021 Goals: Increase portfolio
+- 🌱 I’m currently learning Redis
+- 🥅 2022 Goals: Find a job
 - ⚡ Fun fact: I play chess and drums
 
 ### Connect with me:
 
 [<img align="left" alt="ye11ow_banana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ye11ow_banana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ye11ow_banana | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -29,3 +30,4 @@
 
 [instagram]: https://www.instagram.com/michaelyakubets/
 [linkedin]: https://www.linkedin.com/in/mykhailo-yakubets-975a58218/
+[telegram]: https://t.me/ye11ow_banana
