@@ -1,7 +1,7 @@
 ### Hi there, I'm Mykhailo - aka ye11ow-banana 👋
 
 ## I'm a student and developer:
-- 🌱 I’m currently learning Redis
+- 🌱 I’m currently making SharePet
 - 🥅 2022 Goals: Find a job
 - ⚡ Fun fact: I play chess and drums
 
