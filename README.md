@@ -1,8 +1,8 @@
-### Hi there, I'm Mykhailo - aka ye11ow-banana 👋
+### Hello there, I'm Mykhailo - aka ye11ow-banana 👋
 
-## I'm a student and developer:
-- 🌱 I’m currently developing SharePet
-- 🥅 2022 Goals: Find a job
+## I'm a software engineer:
+- 🌱 I’m currently learning AWS
+- 🥅 2023 Goals: Find a job
 - ⚡ Fun fact: I play chess and drums
 
 ### Connect with me:
