@@ -1,8 +1,8 @@
 ### Hello there, I'm Mykhailo - aka ye11ow-banana 👋
 
 ## I'm a software engineer:
-- 🌱 I’m currently learning AWS
-- 🥅 2023 Goals: Find a job
+- 🌱 I’m currently learning FastAPI & SQLAlchemy & DL
+- 🥅 2023 Goals: Work hard
 - ⚡ Fun fact: I play chess and drums
 
 ### Connect with me:
